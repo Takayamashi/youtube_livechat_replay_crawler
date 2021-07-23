@@ -17,8 +17,8 @@ def main():
         channel_count = len(channel_names)
 
         for i in range(channel_count):
-            channel = {"channel_id": channel_names[i],
-                       "name": channel_urls[i]}
+            channel = {"channel_id": channel_urls[i],
+                       "name": channel_names[i]}
             channel_list.append(channel)
 
     with open('./data/hololive_channels.json', 'w') as f:
