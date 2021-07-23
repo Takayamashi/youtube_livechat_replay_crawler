@@ -1,0 +1,192 @@
+{
+  "channel_list": [
+    {
+      "channel_id": "hololive",
+      "name": "UCJFZiqLMntJufDCHc6bQixg"
+    },
+    {
+      "channel_id": "yagoo",
+      "name": "UCu2DMOGLeR_DSStCyeQpi5Q"
+    },
+    {
+      "channel_id": "sora",
+      "name": "UCp6993wxpyDPHUpavwDFqgg"
+    },
+    {
+      "channel_id": "roboco",
+      "name": "UCDqI2jOz0weumE8s7paEk6g"
+    },
+    {
+      "channel_id": "miko",
+      "name": "UC-hM6YJuNYVAmUWxeIr9FeA"
+    },
+    {
+      "channel_id": "suisei",
+      "name": "UC5CwaMl1eIgY8h02uZw7u8A"
+    },
+    {
+      "channel_id": "fubuki",
+      "name": "UCdn5BQ06XqgXoAxIhbqw5Rg"
+    },
+    {
+      "channel_id": "matsuri",
+      "name": "UCQ0UDLQCjY0rmuxCDE38FGg"
+    },
+    {
+      "channel_id": "haato",
+      "name": "UC1CfXB_kRs3C-zaeTG3oGyg"
+    },
+    {
+      "channel_id": "aki",
+      "name": "UCFTLzh12_nrtzqBPsTCqenA"
+    },
+    {
+      "channel_id": "mel",
+      "name": "UCD8HOxPs4Xvsm8H0ZxXGiBw"
+    },
+    {
+      "channel_id": "choco",
+      "name": "UC1suqwovbL1kzsoaZgFZLKg"
+    },
+    {
+      "channel_id": "choco_alt",
+      "name": "UCp3tgHXw_HI0QMk1K8qh3gQ"
+    },
+    {
+      "channel_id": "shion",
+      "name": "UCXTpFs_3PqI41qX2d9tL2Rw"
+    },
+    {
+      "channel_id": "aqua",
+      "name": "UC1opHUrw8rvnsadT-iGp7Cg"
+    },
+    {
+      "channel_id": "subaru",
+      "name": "UCvzGlP9oQwU--Y0r9id_jnA"
+    },
+    {
+      "channel_id": "ayame",
+      "name": "UC7fk0CB07ly8oSl0aqKkqFg"
+    },
+    {
+      "channel_id": "pekora",
+      "name": "UC1DCedRgGHBdm81E1llLhOQ"
+    },
+    {
+      "channel_id": "rushia",
+      "name": "UCl_gCybOJRIgOXw6Qb4qJzQ"
+    },
+    {
+      "channel_id": "flare",
+      "name": "UCvInZx9h3jC2JzsIzoOebWg"
+    },
+    {
+      "channel_id": "marine",
+      "name": "UCCzUftO8KOVkV4wQG1vkUvg"
+    },
+    {
+      "channel_id": "noel",
+      "name": "UCdyqAaZDKHXg4Ahi7VENThQ"
+    },
+    {
+      "channel_id": "kanata",
+      "name": "UCZlDXzGoo7d44bwdNObFacg"
+    },
+    {
+      "channel_id": "coco",
+      "name": "UCS9uQI-jC3DE0L4IpXyvr6w"
+    },
+    {
+      "channel_id": "watame",
+      "name": "UCqm3BQLlJfvkTsX_hvm0UmA"
+    },
+    {
+      "channel_id": "towa",
+      "name": "UC1uv2Oq6kNxgATlCiez59hw"
+    },
+    {
+      "channel_id": "himemoriluna",
+      "name": "UCa9Y57gfeY0Zro_noHRVrnw"
+    },
+    {
+      "channel_id": "lamy",
+      "name": "UCFKOVgVbGmX65RxO3EtH3iw"
+    },
+    {
+      "channel_id": "nene",
+      "name": "UCAWSyEs_Io8MtpY3m-zqILA"
+    },
+    {
+      "channel_id": "botan",
+      "name": "UCUKD-uaobj9jiqB-VXt71mA"
+    },
+    {
+      "channel_id": "polka",
+      "name": "UCK9V2B22uJYu3N7eR_BT9QA"
+    },
+    {
+      "channel_id": "mio",
+      "name": "UCp-5t9SrOQwXMU7iIjQfARg"
+    },
+    {
+      "channel_id": "okayu",
+      "name": "UCvaTdHTWBGv3MKj3KVqJVCw"
+    },
+    {
+      "channel_id": "korone",
+      "name": "UChAnqc_AY5_I3Px5dig3X1Q"
+    },
+    {
+      "channel_id": "azki",
+      "name": "UC0TXe_LYZ4scaW2XMyi5_kw"
+    },
+    {
+      "channel_id": "risu",
+      "name": "UCOyYb1c43VlX9rc_lT6NKQw"
+    },
+    {
+      "channel_id": "moona",
+      "name": "UCP0BspO_AMEe3aQqqpo89Dg"
+    },
+    {
+      "channel_id": "iofi",
+      "name": "UCAoy6rzhSf4ydcYjJw3WoVg"
+    },
+    {
+      "channel_id": "ollie",
+      "name": "UCYz_5n-uDuChHtLo7My1HnQ"
+    },
+    {
+      "channel_id": "melfissa",
+      "name": "UC727SQYUvx5pDDGQpTICNWg"
+    },
+    {
+      "channel_id": "reine",
+      "name": "UChgTyjG-pdNvxxhdsXfHQ5Q"
+    },
+    {
+      "channel_id": "amelia",
+      "name": "UCyl1z3jo3XHR1riLFKG5UAg"
+    },
+    {
+      "channel_id": "calliope",
+      "name": "UCL_qhgtOy0dy1Agp8vkySQg"
+    },
+    {
+      "channel_id": "gura",
+      "name": "UCoSrY_IQQVpmIRZ9Xf-y93g"
+    },
+    {
+      "channel_id": "inanis",
+      "name": "UCMwGHR0BTZuLsmjY_NT5Pwg"
+    },
+    {
+      "channel_id": "kiara",
+      "name": "UCHsx4Hqa-1ORjQTh9TYDhww"
+    },
+    {
+      "channel_id": "irys",
+      "name": "UC8rcEBzJSleTkf_-agPM20g"
+    }
+  ]
+}
